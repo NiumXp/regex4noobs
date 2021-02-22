@@ -1,12 +1,8 @@
 # regex4noobs
 
-```
 Você sabia que nas expressões regulares é possível criar comentários?! Utilizar ternários!? Ainda tem mais! É possível fazer até recursão!
 
-Bora lá dar uma olhada?
-
 Ps: Ei! Da até para criar 'variáveis'!
-```
 
 ## ROADMAP
 Tópicos riscados devem estar sendo escritos! Mas você pode clicar mesmo assim para ver como anda o progresso!
