@@ -16,10 +16,11 @@ Tópicos riscados devem estar sendo escritos! Mas você pode clicar mesmo assim 
 
 ### Módulo básico
 1. [Comentários](src/basic/comments.md)
-2. ~~[Metacaracteres]()~~
+2. [Funcionamento](src/basic/operation.md)
+3. ~~[Metacaracteres](src/basic/meta.md)~~
     - ~~[Escapando metacaracteres]()~~
-3. ~~[Quantificadores]()~~
-4. ~~[Grupos]()~~
+4. ~~[Quantificadores]()~~
+5. ~~[Grupos]()~~
     - ~~[Backreference]()~~
     - ~~[Nomeando grupos]()~~
 
