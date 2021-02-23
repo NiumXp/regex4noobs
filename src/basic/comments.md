@@ -19,3 +19,5 @@ Não tenha medo do `\w+?`, `(\d+)` ou `.*` ao lado das expressões, veremos mais
 ### Nota
 Você pode colocar qualquer coisa dentro de um comentário, menos um `)`.
 A *engine* irá ignorar tudo após `(?#` até um `)`.
+
+> Ir para [`Módulo básico:Funcionamento`](operation.md)
