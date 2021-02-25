@@ -8,7 +8,7 @@ Ps: Ei! Da até para criar 'variáveis'!
 Tópicos riscados devem estar sendo escritos! Mas você pode clicar mesmo assim para ver como anda o progresso!
 
 ### Introdução
-1. [Boas vindas](src/introduction)
+1. [Boas vindas](src/introduction/README.md)
 2. [Comunicação](src/introduction/communication.md)
 3. ~~[O que é RegExp]()~~
 4. [Testando RegExp](src/introduction/testing.md)
@@ -17,7 +17,7 @@ Tópicos riscados devem estar sendo escritos! Mas você pode clicar mesmo assim 
 ### Módulo básico
 1. [Comentários](src/basic/comments.md)
 2. [Funcionamento](src/basic/operation.md)
-3. [Metacaracteres](src/basic/metacharacters)
+3. [Metacaracteres](src/basic/metacharacters/README.md)
     - 3.1 [*Dot*](src/basic/metacharacters/dot.md)
     - 3.2 [Quantificadores](src/basic/metacharacters/quantifiers.md)
     - 3.3 ~~[Sequências]()~~
