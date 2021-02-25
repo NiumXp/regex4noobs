@@ -4,4 +4,4 @@ Seja bem-vindo! O objetivo deste repositório é te ensinar como criar, usar e s
 
 Durante o repositório você poderá ser jogado para alguns desafios e até formulários com questões! Então não pule nada!
 
-Caso você queira ver os a lista dos desafios ao invés de ser pego de surpresa, você pode clicar [aqui](../challenges.md)!
+Caso você queira ver a lista dos desafios ao invés de ser pego de surpresa, você pode clicar [aqui](../challenges.md)!
