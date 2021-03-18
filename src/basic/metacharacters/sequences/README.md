@@ -1,4 +1,6 @@
 # 3.3 Sequências
-blablabla :D
+Sequências de metacaracteres são classes de caracteres pré-definidas.
+
+
 
 > Ir para [``]()
