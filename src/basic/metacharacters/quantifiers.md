@@ -45,4 +45,4 @@ Se houver um erro de sintaxe no quantificador `{n,m}`, ele será tratado como um
 
 Qualquer quantificador dentro de uma classe de caracteres se torna um literal.
 
-> Ir para [`Módulo básico:Metacaracteres:Sequências`](sequences/README.md)
+> Ir para [`Módulo básico:Metacaracteres:Classe de caracteres`](classes.md)

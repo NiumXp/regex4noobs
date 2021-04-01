@@ -1,4 +1,4 @@
-# 3.3 Backslash
+# 3.4 Backslash
 A barra invertida é um metacaractere representado pela `\`. Esse metacaractere é comunmente chamado de **caractere de escape** (por escapar metacaracteres - transforma-lós em literais) e/ou **sequência de escape** (por conseguir representar um caractere ASCII em hexadecimal por exemplo).
 
 ## Escapando metacaracteres
