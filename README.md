@@ -20,7 +20,7 @@ Tópicos riscados devem estar sendo escritos! Mas você pode clicar mesmo assim 
 3. [Metacaracteres](src/basic/metacharacters/README.md)
     - 3.1 [*Dot*](src/basic/metacharacters/dot.md)
     - 3.2 [Quantificadores](src/basic/metacharacters/quantifiers.md)
-    - 3.3. ~~[Classe de caracteres](src/basic/metacharacters/classes.md)~~
+    - 3.3. [Classe de caracteres](src/basic/metacharacters/classes.md)
     - 3.4 [*Backslash*](src/basic/metacharacters/backslash.md)
     - 3.5 ~~[Sequências]()~~
         - 3.5.1 ~~[*Whitespaces*]()~~
