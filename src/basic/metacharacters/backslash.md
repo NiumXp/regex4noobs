@@ -28,9 +28,7 @@ Caso válido -> Eu sou o Nium!
 
 Temos a expressão `[Ee]u sou o ([Nn]ium)!?` (se única coisa que você não entenda sejam os parenteses, parabéns! caso contrário, você não conseguiu entender os tópicos anteriores, volte e tente criar algumas expressões para você entender melhor!) e dentro dela temos `[Nn]ium` que também está dentro de parenteses, isso significa que é o que queremos como saída, mas note uma coisa, toda a expressão está dentro de `(?:)`, se escaparmos o parenteses do nosso grupo de captura (`\([Nn]ium)`), faremos com que o parenteses pararelho ao grupo de não-captura (`(?:)`) olhe para o do grupo de captura.
 
-<code align="center">
-
-```
+<pre align="center"><code>Expressão válida
 (?:[Ee]u sou o ([Nn]ium)!?)
 │              └-------┘  │
 └-------------------------┘
@@ -39,8 +37,7 @@ Expressão com erro de sintaxe
 (?:[Ee]u sou o \([Nn]ium)!?)
 └-----------------------┘  │
         Sem parelho (erro) ┘
-```
-</code>
+</code></pre>
 
 Ou seja, como o conteúdo dentro dos colchetes e chaves não são expressões tão "poderosas", eles não tem o mesmo comportamento de escape que os parenteses.
 
