@@ -4,8 +4,9 @@ Você sabia que nas expressões regulares é possível criar comentários?! Util
 
 Ps: Ei! Da até para criar 'variáveis'!
 
+
 ## ROADMAP
-Tópicos riscados devem estar sendo escritos! Mas você pode clicar mesmo assim para ver como anda o progresso!
+Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim para ver como está ficando!
 
 ### Introdução
 1. [Boas vindas](src/introduction/README.md)
@@ -24,12 +25,17 @@ Tópicos riscados devem estar sendo escritos! Mas você pode clicar mesmo assim 
     - 3.4 [*Backslash*](src/basic/metacharacters/backslash.md)
     - 3.5 ~~[Sequências]()~~
         - 3.5.1 ~~[*Whitespaces*]()~~
-5. [Parabéns](congratulations.md)
+5. [Parabéns](src/basic/congratulations.md)
 
 ### Módulo intermediário
 1. ~~[Grupos]()~~
     - ~~[Backreference]()~~
     - ~~[Nomeando grupos]()~~
+
+### Módulo bônus
+1. ~~[Decifrando expressões regulares](src/bonus/reading.md)~~
+2. ~~[Expressões regulares à prova d'água](src/bonus/water.md)~~
+
 
 ## Contribuindo
 Sinta-se a vontade mandando PRs para o projeto e respondendo o pessoal nas [Issues](https://github.com/NiumXp/regex4noobs/issues)!
