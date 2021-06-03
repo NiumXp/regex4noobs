@@ -24,7 +24,7 @@ Tópicos riscados devem estar sendo escritos! Mas você pode clicar mesmo assim 
     - 3.4 [*Backslash*](src/basic/metacharacters/backslash.md)
     - 3.5 ~~[Sequências]()~~
         - 3.5.1 ~~[*Whitespaces*]()~~
-5. ~~[Parabéns]()~~
+5. [Parabéns](congratulations.md)
 
 ### Módulo intermediário
 1. ~~[Grupos]()~~
