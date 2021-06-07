@@ -1,4 +1,4 @@
-# 3.4 Backslash
+# 3.4 - Backslash
 A barra invertida é um metacaractere representado pela `\`. Esse metacaractere é comunmente chamado de **caractere de escape** (por escapar metacaracteres - transforma-lós em literais) e/ou **sequência de escape** (por conseguir representar um caractere ASCII em hexadecimal por exemplo).
 
 ## Escapando metacaracteres
@@ -52,3 +52,5 @@ Eu decidi escrever esta "nota" porque o caractere `/` é um "literal e um metaca
 Sim, eu sei que a frase entre aspas é contraditória, mas foi apenas para te assustar, a barra é considerada um literal, mas na análise léxica do JavaScript, ECMAScript e PHP por exemplo, o `/` é usado para determinar que o quê vier após ele será uma expressão regular, então, ele acaba se tornando um "metacaractere".
 
 > Não é má prática utilizar `\/` para escapar o `/` mesmo se a linguagem já entender como um literal, é até comum, pois a expressão poderá ser usada em diversas linguagens.
+
+> Ir para [`Módulo básico:Metacaracteres:Sequências`](sequences.md)

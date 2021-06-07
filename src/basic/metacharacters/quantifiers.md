@@ -1,4 +1,4 @@
-# 3.2 Quantifiers
+# 3.2 - Quantifiers
 Os quantificadores fazem com que o seu precedente se repita em alguma quantidade.
 
 Os simbolos `?`, `*`, `+` e `{n,m}` são usados para representar os quantificadores.

@@ -1,4 +1,4 @@
-# 4. Testando RegExp
+# 4 - Testando RegExp
 Neste projeto estarei utilizando o site https://regex101.com/ para passar testes unitários, dessa forma vocês podem criar as expressões regulares com alguns casos e aprender a usa-lás.
 
 Lembrando que podem existir diversas expressões regulares diferentes para os mesmos casos, dê uma olhada nos casos abaixo:

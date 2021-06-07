@@ -1,4 +1,4 @@
-# 3.3 Classe de caracteres
+# 3.3 - Classe de caracteres
 
 Ok, classe de caracteres parece um nome complicado, mas não se preocupe! classe de caracteres é um conjunto de caracteres - também é chamado dessa forma hodiernamente.
 

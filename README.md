@@ -23,8 +23,8 @@ Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim pa
     - 3.2 [Quantificadores](src/basic/metacharacters/quantifiers.md)
     - 3.3. [Classe de caracteres](src/basic/metacharacters/classes.md)
     - 3.4 [*Backslash*](src/basic/metacharacters/backslash.md)
-    - 3.5 ~~[Sequências]()~~
-        - 3.5.1 ~~[*Whitespaces*]()~~
+    - 3.5 ~~[Sequências](src/basic/metacharacters/sequences.md)~~
+4. ~~[Âncoras](src/basic/anchors.md)~~
 5. [Parabéns](src/basic/congratulations.md)
 
 ### Módulo intermediário
@@ -33,8 +33,9 @@ Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim pa
     - ~~[Nomeando grupos]()~~
 
 ### Módulo bônus
-1. ~~[Decifrando expressões regulares](src/bonus/reading.md)~~
-2. ~~[Expressões regulares à prova d'água](src/bonus/water.md)~~
+1. [Quanto mais, melhor?](src/bonus/README.md)
+2. ~~[Decifrando expressões regulares](src/bonus/reading.md)~~
+3. ~~[Expressões regulares à prova d'água](src/bonus/water.md)~~
 
 
 ## Contribuindo

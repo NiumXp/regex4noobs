@@ -1,4 +1,4 @@
-# 2. Funcionamento
+# 2 - Funcionamento
 Antes de vermos os metacaracteres eu acho necessário explicar como uma expressão regular funciona quando você for escrever uma.
 
 A expressão `aa` casa com `aa` por exemplo, isso só funcionou porque na primeira posição eu quero que o literal `a` case com a letra `a`, o mesmo acontece na segunda posição.

@@ -1,4 +1,4 @@
-# 1. Boas vindas
+# 1 - Boas vindas
 
 Seja bem-vindo! O objetivo deste repositório é te ensinar como criar, usar e sobre as expressões regulares para não perder tempo criando *parsers* por exemplo!
 

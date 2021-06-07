@@ -1,4 +1,4 @@
-# 3. Metacarateres
+# 3 - Metacarateres
 Daqui pra frente você verá muito o termo "casar", entenda isso como algo combinante ou resultante.
 Por exemplo, a expressão `a+` combina com os textos `a`, `aa`, `aaa` e entre outros.
 

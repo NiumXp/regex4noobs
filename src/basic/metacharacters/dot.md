@@ -1,4 +1,4 @@
-# 3.1 Dot
+# 3.1 - Dot
 O *`dot`* é um metacaractere representado por um `.` em que casa com qualquer caractere, até ele mesmo!
 
 Precisamos falar um pouco mais sobre esse metacaractere, ele não casa com quebras de linhas. Essa exceção existe por motivos históricos.

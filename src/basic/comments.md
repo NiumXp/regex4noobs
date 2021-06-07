@@ -1,4 +1,4 @@
-# 1. Comentários
+# 1 - Comentários
 Comentários são muitos importantes na hora de escrever uma expressão regular extensa.
 
 Imagine só você ter mais de 100 casos que precisam casar e uma expressão bem grande e do nada alguns casos param de ser aceitos, ia dar um trabalinho rever a expressão toda não é? Para evitar isso, os comentários são de grande ajuda!
