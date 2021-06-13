@@ -51,6 +51,9 @@ Eu decidi escrever esta "nota" porque o caractere `/` é um "literal e um metaca
 
 Sim, eu sei que a frase entre aspas é contraditória, mas foi apenas para te assustar, a barra é considerada um literal, mas na análise léxica do JavaScript, ECMAScript e PHP por exemplo, o `/` é usado para determinar que o quê vier após ele será uma expressão regular, então, ele acaba se tornando um "metacaractere".
 
+O mesmo acontece com o acento grave (`` ` ``), ele é um literal em Python e em Javascript por exemplo, mas em Golang não, é o oposto, então você tem que escapa-lo nesse caso.
+
 > Não é má prática utilizar `\/` para escapar o `/` mesmo se a linguagem já entender como um literal, é até comum, pois a expressão poderá ser usada em diversas linguagens.
+
 
 > Ir para [`Módulo básico:Metacaracteres:Sequências`](sequences.md)
