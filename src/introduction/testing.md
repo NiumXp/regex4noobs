@@ -24,4 +24,6 @@ Não se preocupe! Volte nos textos e dê uma revisada! Se não conseguir mesmo a
 
 Nunca procure a resolução sem ter tentado várias vezes! Você até pode ver uma resolução e conseguir faze-la logo em seguida, mas o mérito não será só seu!
 
-> Ir para [`Introdução:Brincando com RegExp`](playing.md)
+---
+
+Ir para [`Introdução:Brincando com RegExp`](playing.md).

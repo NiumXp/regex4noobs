@@ -6,5 +6,6 @@ Todo o conteúdo deste módulo veio das minhas ideias e experiências em cima da
 
 Você não precisa ver este módulo se quiser... mas e aí, qual seria a sua resposta ao título?
 
+---
 
-> Ir para [`Módulo Bônus:Decifrando expressões regulares`](reading.md)
+Ir para [`Módulo Bônus:Decifrando expressões regulares`](reading.md).

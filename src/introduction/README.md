@@ -6,4 +6,6 @@ Durante o repositório você poderá ser jogado para alguns desafios e até form
 
 Caso você queira ver a lista dos desafios ao invés de ser pego de surpresa, você pode clicar [aqui](../challenges.md)!
 
-> Ir para [`Introdução:Comunicação`](communication.md)
+---
+
+Ir para [`Introdução:Comunicação`](communication.md).

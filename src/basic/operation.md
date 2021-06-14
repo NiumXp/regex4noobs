@@ -11,4 +11,6 @@ Agora vamos supor que eu tenha a lista `\d` (apenas digitos) e preciso repetir e
 
 Estes breves exemplos são muito bons entender de começo, te ajudará bastante!
 
-> Ir para [`Módulo básico:Metacaracteres`](metacharacters/README.md)
+---
+
+Ir para [`Módulo básico:Metacaracteres`](metacharacters/README.md).

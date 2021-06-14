@@ -55,5 +55,6 @@ O mesmo acontece com o acento grave (`` ` ``), ele é um literal em Python e em 
 
 > Não é má prática utilizar `\/` para escapar o `/` mesmo se a linguagem já entender como um literal, é até comum, pois a expressão poderá ser usada em diversas linguagens.
 
+---
 
-> Ir para [`Módulo básico:Metacaracteres:Sequências`](sequences.md)
+Ir para [`Módulo básico:Metacaracteres:Sequências`](sequences.md).

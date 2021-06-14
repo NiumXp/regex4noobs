@@ -8,4 +8,6 @@ As primeiras ferramentas a utilizar as expressões regulares foram baseadas em l
 ### Nota
 Esse metacaractere vira um literal quando utilizado em uma classe de caracteres. Não se preocupe, veremos mais a frente o que é uma classe de caracteres!
 
-> Ir para [`Módulo básico:Metacaracteres:Quantificadores`](quantifiers.md)
+---
+
+Ir para [`Módulo básico:Metacaracteres:Quantificadores`](quantifiers.md)

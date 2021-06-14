@@ -33,4 +33,6 @@ $                   # FINAL da string
 
 Esses tipos de comentários únicos inviabilizam testar as expressões externamente, ou seja, esse tipo de comentário só pode ser utilizado quando as expressões não serão mais modificadas!
 
-> Ir para [`Módulo básico:Funcionamento`](operation.md)
+---
+
+Ir para [`Módulo básico:Funcionamento`](operation.md).

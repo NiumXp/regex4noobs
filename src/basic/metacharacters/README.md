@@ -7,4 +7,6 @@ A maioria dos caracteres casam com eles mesmos pois são tratados como literais.
 ### Nota
 Existem diversos metacaracteres, o repositório poderia ser escrito totalmente em cima desse tópico, mas para ficar fácil a didática eu decidi mostrar apenas alguns neste ramo e ao longo do repositório ir citando os outros.
 
-> Ir para [`Módulo básico:Metacaracteres:Dot`](dot.md)
+---
+
+Ir para [`Módulo básico:Metacaracteres:Dot`](dot.md).

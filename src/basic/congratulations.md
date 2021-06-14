@@ -33,4 +33,6 @@ Nesse código Python podemos ver a expressão `regex` que será usada em `texto`
 
 Note que assim que "executamos" `regex` em `texto`, salvamos uma informação (`match`) e logo abaixo **checamos** se ela existe, se existir é porquê nosso texto casa com `regex`.
 
-> Ir para [`ROADMAP`](../../README.md#ROADMAP)
+---
+
+Ir para [`ROADMAP`](../../README.md#ROADMAP).

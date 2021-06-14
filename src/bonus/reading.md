@@ -25,5 +25,6 @@ Ou seja, se olharmos para nossa primeira expressão, vamos ver que existem dois 
 Com os valores absolutos podemos imaginar a quantidade minima de caracteres que terá na saída e qual é o alvo da expressão regular.
 No caso da primeira expressão dessa sessão, a saída sempre terá de dois ou mais caracteres.
 
+---
 
-> Ir para [`Módulo Bônus:Expressões regulares à prova d'água`](water.md)
+Ir para [`Módulo Bônus:Expressões regulares à prova d'água`](water.md).

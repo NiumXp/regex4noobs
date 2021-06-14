@@ -17,13 +17,16 @@ Faça os testes com as expressões `\A\d` e `^\d` com o seguinte texto
 2
 ```
 
+> Cuidado ao utilizar `\a` ao invés da âncora `\A`. O metacaratere `\a` representa o caractere [BEL (ASCII 7)](https://en.wikipedia.org/wiki/Bell_character).
+
+
 ## Final da linha
 As âncoras `$`, `\Z` e `\z` são iguais as anteriores, mas ao invés de ser no começo, é no final da linha.
 
 Exemplo, `a$` casa com `banana`, `laranja`, `manga` e entre outros, mas não casa com `maçã`.
 
 ### Nota
-As âncoras `\Z` e `\z` não são afetadas pelo medo `m`, a `\z` é mais especial, ela não corresponderá antes de uma nova linha que nem `\Z`, essa âncora verifica o final do texto de forma absoluta.
+As âncoras `\Z` e `\z` não são afetadas pelo modo `m`, a `\z` é mais especial, ela não corresponderá antes de uma nova linha que nem `\Z`, essa âncora verifica o final do texto de forma absoluta.
 
 Faça os testes com as expressões `\d$`, `\d\Z` e `\d\z` com o seguinte texto
 ```

@@ -32,6 +32,7 @@ Na representação da sintaxe anterior, aquele `c` pode ser entendido como qualq
 Por exemplo, no conjunto `[Nn]`, `Nn` é o nosso maravilhoso `c`! Agora no conjunto `[NnIiUuMm]`, você consegue me dizer qual valor `c` representa?
 
 ###### Ps: E aí, você já tentou criar um conjunto dentro de outro conjunto?
-<br>
 
-> Ir para [`Módulo básico:Metacaracteres:Backslash`](backslash.md)
+---
+
+Ir para [`Módulo básico:Metacaracteres:Classe de caracteres:Range`](range.md).
