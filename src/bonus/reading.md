@@ -19,11 +19,16 @@ Ou seja, se olharmos para nossa primeira expressão, vamos ver que existem dois 
 -?[0-9]+\.?[0-9]+
   ^^^^^    ^^^^^
 ```
-..o que tornou eles absolutos foi quantificador ao lado deles.
+..o que tornou eles absolutos foi quantificador `+` ao lado deles.
 
 ### Por que devemos saber os valores absolutos?
-Com os valores absolutos podemos imaginar a quantidade minima de caracteres que terá na saída e qual é o alvo da expressão regular.
+Com os valores absolutos podemos imaginar a quantidade minima de caracteres que terá na saída e qual é o alvo das expressões regulares.
+
 No caso da primeira expressão dessa sessão, a saída sempre terá de dois ou mais caracteres.
+
+
+# Resumindo
+Uma expressão regular é como uma árvore, os valores absolutos da expressão são como o tronco. Sabemos que existem galhos no topo de uma árvore e as vezes não conseguimos exergar se ela for muito grande, esses galhos são os valores quase incertos de uma expressão regular, sabemos que existem, mas não ligamos muito para eles.
 
 ---
 
