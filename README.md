@@ -36,8 +36,12 @@ Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim pa
 ### Módulo bônus
 1. [Quanto mais, melhor?](src/bonus/README.md)
 2. ~~[Decifrando expressões regulares](src/bonus/reading.md)~~
-3. ~~[Expressões regulares à prova d'água](src/bonus/water.md)~~
+3. [Expressões regulares à prova d'água](src/bonus/water.md)
 
 
 ## Contribuindo
 Sinta-se a vontade mandando PRs para o projeto e respondendo o pessoal nas [Issues](https://github.com/NiumXp/regex4noobs/issues)!
+
+
+## Agradecimentos
+Muito obrigado ao [Mewbi](https://github.com/Mewbi) por ter me motivado com a ideia do projeto e a toda comunidade envolvida ao [4noobs](https://github.com/he4rt/4noobs)!
