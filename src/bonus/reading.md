@@ -1,6 +1,6 @@
 # 2 - Decifrando expressões regulares
 
-Toda expressão regular é bem complicada de se ler as vezes.
+Algumas expressões regulares são bem complicadas de se ler as vezes.
 
 Por exemplo, olhe esta expressão `-?[0-9]+\.?[0-9]+` e tente ver qual das opções abaixo não é válida à ela:
 
@@ -26,10 +26,10 @@ Com os valores absolutos podemos imaginar a quantidade minima de caracteres que 
 
 No caso da primeira expressão dessa sessão, a saída sempre terá de dois ou mais caracteres.
 
-### E os valores quase incertos?
-Vamos voltar na última expressão, podemos ver o `-?` no começo dela, isso significa que o `-` é um valor incerto, o que vier depois dele é um valor quase incerto. Por exemplo, o caso `25` é um caso que podemos prever por conta dos valores absolutos, agora o caso `-25` é um caso quase incerto já que o `-` apareceu.
+### E os valores incertos?
+Vamos voltar na última expressão, podemos ver o `-?` no começo dela, isso significa que o `-` é um valor incerto. Por exemplo, o caso `25` é um caso que podemos prever por conta dos valores absolutos, agora o caso `-25` é um caso incerto já que o `-` apareceu.
 
-Entenda os valores quase incertos como os valores absolutos só que de origem incerta.
+Entenda os valores incertos como os valores absolutos só que de origem incerta.
 
 ## Ramos e mais ramos
 Xii... essa é a pior parte de uma expressão regular. Eu tenho certeza de que você passa mal quando tem que desvendar uma expressão que utiliza *pipe*. Mas não se preocupe, você nunca mais precisará de um balde se apenas separar a expressão regular!

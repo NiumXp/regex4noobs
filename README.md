@@ -35,7 +35,7 @@ Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim pa
 
 ### Módulo bônus
 1. [Quanto mais, melhor?](src/bonus/README.md)
-2. ~~[Decifrando expressões regulares](src/bonus/reading.md)~~
+2. [Decifrando expressões regulares](src/bonus/reading.md)
 3. [Expressões regulares à prova d'água](src/bonus/water.md)
 
 
