@@ -29,10 +29,10 @@ Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim pa
 5. [Parabéns](src/basic/congratulations.md)
 
 ### Módulo intermediário
-1. ~~[*Pipe*](src/intermediary/pipe.md)~~
-2. ~~[Grupos](src/intermediary/groups/README.md)~~
-    - 2.1 ~~[Backreference](src/intermediary/groups/backreference.md)~~
-    - ~~[Nomeando grupos]()~~
+1. [*Pipe*](src/intermediary/pipe.md)
+2. [Grupos](src/intermediary/groups/README.md)
+    - 2.1 [Backreference](src/intermediary/groups/backreference.md)
+    - 2.2 ~~[Nomeando grupos](src/intermediary/groups/named.md)~~
 - ~~[Parabéns](src/intermediary/congratulations.md)~~
 
 ### Módulo bônus

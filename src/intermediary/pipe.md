@@ -1,7 +1,7 @@
 # 1 - *Pipe*
 O *pipe* é um metacaractere representado por um `|` e pode ser entendido como um "ou".
 
-Por exemplo, vamos ver esta expressão a seguir:
+Por exemplo, vamos ver a seguinte expressão
 ```
 [A-C]       A, B, C
 |           ou
@@ -9,8 +9,8 @@ Por exemplo, vamos ver esta expressão a seguir:
 ```
 Nela dizemos que não queremos as letras `D`, `E` e `F` técnicamente, podemos usar `[A-CG-Z]` para entender melhor.
 
-## Opa opa
-Não se engane pensando que o *pipe* utiliza apenas o seu precedente e subsequente. Ele irá utilizar tudo em que seu grupo permitir.
+### Opa opa
+Não se engane pensando que o *pipe* faz o "ou" apenas com o seu precedente e subsequente. Ele irá utilizar tudo em que seu grupo e os outros *pipes* dentro permitir.
 
 Por exemplo, `Olá|Oi` casará com `Olá` ou `Oi` ao invés de `Olài` ou `Oloi`.
 

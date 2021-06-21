@@ -37,11 +37,11 @@ Esse grupo é o oposto do grupo de captura acima. Ou seja, ele não cria nenhum 
 
 Ah, para criar esse grupo basta colocar `?:` dentro dos parênteses, desta forma `(?:)`.
 
-> Esse grupo é bastante utilizado junto com o [*pipe*](../pipe.md). Não só ele, mas também todos os grupos...
+> Esse grupo é bastante utilizado junto com o [*pipe*](../pipe.md). Não só ele, mas também com todos os grupos...
 
 
 # Nota
-Alguns grupos não permitem utilizar quantificadores dentro deles. Um grupo de e não captura é um dos que permitem utilizar.
+Alguns grupos não permitem utilizar quantificadores dentro deles. Um grupo de captura e de não captura são alguns dos que permitem utilizar.
 
 ---
 
