@@ -32,7 +32,10 @@ Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim pa
 1. [*Pipe*](src/intermediary/pipe.md)
 2. [Grupos](src/intermediary/groups/README.md)
     - 2.1 [Backreference](src/intermediary/groups/backreference.md)
-    - 2.2 ~~[Nomeando grupos](src/intermediary/groups/named.md)~~
+    - 2.2 [Nomeando grupos](src/intermediary/groups/named.md)
+3. *Look*
+    - ~~3.1 [*Lookahead*](src/intermediary/lookahead.md)~~
+    - ~~3.2 [*Lookbehind*](src/intermediary/lookbehind.md)~~
 - ~~[Parabéns](src/intermediary/congratulations.md)~~
 
 ### Módulo bônus
