@@ -1,47 +1,26 @@
-# regex4noobs
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="https://github.com/he4rt/4noobs/blob/master/.github/header_4noobs.svg">
+  </a>
+</p>
 
+<p align="center">
+  <h2 align="center">regex4noobs</h2>
+
+  <p align="center">
+    <br />
+    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/NiumXp/regex4noobs/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/NiumXp/regex4noobs/issues">Request Feature</a>
+  </p>
+</p>
+
+
+## Sobre o Projeto
 Você sabia que nas expressões regulares é possível criar comentários?! Utilizar ternários!? Ainda tem mais! É possível fazer até recursão!
-
-Ps: Ei! Da até para criar 'variáveis'!
-
-
-## ROADMAP
-Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim para ver como está ficando!
-
-### Introdução
-1. [Boas vindas](src/introduction/README.md)
-2. [Comunicação](src/introduction/communication.md)
-3. ~~[O que é RegExp]()~~
-4. [Testando RegExp](src/introduction/testing.md)
-5. [Brincando com RegExp](src/introduction/playing.md)
-
-### Módulo básico
-1. [Comentários](src/basic/comments.md)
-2. [Funcionamento](src/basic/operation.md)
-3. [Metacaracteres](src/basic/metacharacters/README.md)
-    - 3.1 [*Dot*](src/basic/metacharacters/dot.md)
-    - 3.2 [Quantificadores](src/basic/metacharacters/quantifiers.md)
-    - 3.3. [Classe de caracteres](src/basic/metacharacters/classes.md)
-        - 3.3.1 [*Range*](src/basic/metacharacters/range.md)
-    - 3.4 [*Backslash*](src/basic/metacharacters/backslash.md)
-    - 3.5 [Sequências](src/basic/metacharacters/sequences.md)
-4. [Âncoras](src/basic/anchors.md)
-5. [Parabéns](src/basic/congratulations.md)
-
-### Módulo intermediário
-1. [*Pipe*](src/intermediary/pipe.md)
-2. [Grupos](src/intermediary/groups/README.md)
-    - 2.1 [Backreference](src/intermediary/groups/backreference.md)
-    - 2.2 [Nomeando grupos](src/intermediary/groups/named.md)
-3. [*Lookaround*](src/intermediary/lookaround.md)
-    - ~~3.1 [*Lookahead*](src/intermediary/lookahead.md)~~
-    - ~~3.2 [*Lookbehind*](src/intermediary/lookbehind.md)~~
-- ~~[Parabéns](src/intermediary/congratulations.md)~~
-
-### Módulo bônus
-1. [Quanto mais, melhor?](src/bonus/README.md)
-2. [Decifrando expressões regulares](src/bonus/reading.md)
-3. [Expressões regulares à prova d'água](src/bonus/water.md)
 
 
 ## Contribuindo
@@ -50,3 +29,15 @@ Sinta-se a vontade mandando PRs para o projeto e respondendo o pessoal nas [Issu
 
 ## Agradecimentos
 Muito obrigado ao [Mewbi](https://github.com/Mewbi) por ter me motivado com a ideia do projeto e a toda comunidade envolvida ao [4noobs](https://github.com/he4rt/4noobs)!
+
+## Autores
+
+- [**NiumXp**](https://github.com/NiumXp) - *Python*
+
+---
+
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="https://github.com/he4rt/4noobs/blob/master/.github/footer_4noobs.svg" width="380">
+  </a>
+</p>
