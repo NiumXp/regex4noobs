@@ -9,7 +9,7 @@
 
   <p align="center">
     <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
+    <a href="/src/roadmap.md"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/NiumXp/regex4noobs/issues">Report Bug</a>
