@@ -25,7 +25,7 @@ assert resultado.groups()[0] == "Nium"
 
 Eu sei, eu sei que daria para trocar por `resultado.group(1)`, só que, porque `1` ao invés de `0` que nem ali em cima?...
 
-Esquece tudo isso, olha só como um *lookahead* negativo deixa nosso código bonitão
+Esqueça tudo isso por agora e olhe só como um *lookahead* negativo deixa nosso código bonitão
 ```py
 resultado = re.match(r"Nium(?=Xp)", texto)
 assert resultado.string == "Nium"
@@ -37,7 +37,7 @@ assert resultado.string == "Nium"
 
 Quando utilizamos algum *lookaround*, estamos dizendo para a *engine* dar alguns passos e confirmar se ali existe algo só que não nos retorne o que está ali.
 
-Ou seja, queremos a palavra `Nium` que `Xp` esteja seguinte à ela.
+Ou seja, queremos a palavra `Nium` em que `Xp` esteja seguinte à ela.
 
 ---
 

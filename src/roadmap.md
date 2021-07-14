@@ -29,7 +29,7 @@ Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim pa
 3. [*Lookaround*](intermediary/lookaround.md)
     - ~~3.1 [*Lookahead*](intermediary/lookahead.md)~~
     - ~~3.2 [*Lookbehind*](intermediary/lookbehind.md)~~
-- ~~[Parabéns](intermediary/congratulations.md)~~
+4. [Parabéns](intermediary/congratulations.md)
 
 ### Módulo bônus
 1. [Quanto mais, melhor?](bonus/README.md)
