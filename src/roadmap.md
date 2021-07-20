@@ -1,5 +1,4 @@
 # ROADMAP
-Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim para ver como está ficando!
 
 ### Introdução
 1. [Boas vindas](introduction/README.md)
@@ -27,8 +26,8 @@ Tópicos riscados devem estar em progresso! Mas você pode clicar mesmo assim pa
     - 2.1 [Backreference](intermediary/groups/backreference.md)
     - 2.2 [Nomeando grupos](intermediary/groups/named.md)
 3. [*Lookaround*](intermediary/lookaround.md)
-    - ~~3.1 [*Lookahead*](intermediary/lookahead.md)~~
-    - ~~3.2 [*Lookbehind*](intermediary/lookbehind.md)~~
+    - 3.1 [*Lookahead*](intermediary/lookahead.md)
+    - 3.2 [*Lookbehind*](intermediary/lookbehind.md)
 4. [Parabéns](intermediary/congratulations.md)
 
 ### Módulo bônus
